@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Emilys Candy
+- Font Author: Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name "Emilys Candy"
+- Font Source: http://fonts.gstatic.com/s/emilyscandy/v13/2EbgL-1mD1Rnb0OGKudbk0y5r9xrX84JjA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

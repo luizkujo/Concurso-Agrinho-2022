@@ -1,0 +1,28 @@
+body {
+    background-color: #A0D4F2;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+}
+#ucrania {
+    color: blue;
+    
+}
+#russia {
+    color: red;
+}
+#imagem1{
+    width: 504px;
+    height: 336px;
+}
+#imagemcabecalho{
+    width: 375px;
+    height:  222px;
+}
