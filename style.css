@@ -26,3 +26,7 @@ p {
     width: 375px;
     height:  222px;
 }
+header, footer{
+    background-color: #81BDD4;
+    padding: 50px;
+}
